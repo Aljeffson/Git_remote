@@ -30,3 +30,10 @@ rm >  deleteing/removing a file
 
 *	git status 
 		- displays the current status of your file/folders
+* git add . 
+	-display the current status in your current directory to the staging area 
+* git add "filename"
+	- adds a specific file to staging area
+* git commit -m "message"
+	- saves the changes that you have made to the files in the staging area to the repository. The 
+	"message" describes what changes were made in this commit.
